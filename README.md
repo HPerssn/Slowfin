@@ -34,3 +34,9 @@ Focused on clear allocation, performance, and projections rather than trading fe
 ```bash
 cd backend
 dotnet run
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
